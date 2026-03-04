@@ -1,0 +1,2 @@
+En este repositorio se encuentra la presentación oficial del proyecto. Está disponible mediante un enlace externo. En la presentación se explica de forma resumida el proceso de desarrollo, los resultados obtenidos y los puntos más relevantes del trabajo realizado. Puedes verla accediendo a ella en línea a través del siguiente enlace: 
+https://docs.google.com/presentation/d/17emCrjo90_UYh6IPovgTWKoFNlDPMOtB/edit?usp=drive_link&ouid=107266659836833606858&rtpof=true&sd=true
